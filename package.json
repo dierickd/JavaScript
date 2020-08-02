@@ -1,0 +1,27 @@
+{
+  "name": "decouverte-webpack",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.5.0",
+    "css-loader": "^4.2.0",
+    "jquery": "^3.5.1",
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.2",
+    "ts-loader": "^8.0.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap-loader": "^3.0.4",
+    "moment": "^2.27.0"
+  },
+  "description": ""
+}
